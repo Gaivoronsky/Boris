@@ -1,0 +1,14 @@
+*~
+*.pyc
+*.npy
+.idea
+#*.pth
+*.gmm
+*.wav
+*.txt
+*.log
+*.7z
+*.mp4
+*.db
+__pycache__
+kaldi_vosk
