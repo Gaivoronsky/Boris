@@ -17,8 +17,10 @@ python manage.py runserver
 * To go to the admin panel http://127.0.0.1:8000/admin/login/?next=/admin/  
 Username: admin  
 Password: admin
+![demo](doc/1.gif)
 #### Voice assistant
 * Command to start from voice assistant
 ```bash
 python voice_app.py
 ```
+![demo](doc/2.gif)
